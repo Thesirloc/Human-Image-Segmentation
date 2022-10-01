@@ -29,10 +29,3 @@ These qualitative results are on random images taken from [https://wallpapercave
 ![](test_images/mask/wp8725159.png)
 ![](test_images/mask/wp8725197.png)
 
-## Contact
-For any query contact below:
-- [Facebook](https://www.facebook.com/idiotdeveloper)
-- [Instagram](https://instagram/nikhilroxtomar)
-- [Telegram](t.me/idiotdeveloper)
-
-
